@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bundesligR",
+    "oncran": true
+  },
+  {
+    "package": "LexisPlotR",
+    "oncran": true
+  }
+]
