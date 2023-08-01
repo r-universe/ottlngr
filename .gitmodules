@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bundesligR"]
-	path = bundesligR
-	url = https://github.com/ottlngr/bundesligr
 [submodule "LexisPlotR"]
 	path = LexisPlotR
 	url = https://github.com/ottlngr/lexisplotr
+[submodule "bundesligR"]
+	path = bundesligR
+	url = https://github.com/ottlngr/bundesligr
